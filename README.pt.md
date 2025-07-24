@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/taweilo/mba-admission-dataset
 
 ## ✅ Próximos passos
 
-- Implementar um modelo preditivo supervisionado (como Decision Tree ou Regressão Logística) para avaliar a influência de cada variável na admissão.
+- Implementar um modelo preditivo supervisionado (como Decision Tree ou Regressão Logística) para avaliar a relação de cada variável com a admissão.
 - Refatorar os gráficos com a biblioteca Seaborn para melhorar a estética e o controle visual.
 - Utilizar NumPy para cálculos estatísticos como o coeficiente de correlação de Pearson.
 
